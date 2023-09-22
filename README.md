@@ -1,4 +1,4 @@
-# assign-mentor
+# Assign Mentor
 
 # Rendered Information
 
